@@ -1,8 +1,14 @@
 # Arduiflo
 
->Créateur=Frédéric Cantin, Laurent Charbonneau, Raphaël Dermers, Serge Dubé, Marc-Olivier Ducharme, Anthony Lapointe, Stéphanie Lessard-Bérubé, Stéphanie Perron, Stéphane Rousseau
-Description projet=Système d’irrigation de plantes ou de jardin de balcon commandé par un module Arduino et une pompe solaire.
-Ingrédient=[[http://www.digikey.ca/product-detail/en/74HC4052N652/568-1457-5-ND/763061|Multiplexeur 74HC4052N]], [[http://www.digikey.ca/product-detail/en/1-390261-4/A100206-ND/1125624|Support de circuit intégré DIP-16 pour le multiplexeur (facultatif)]], [[http://www.digikey.ca/product-detail/en/P2N2222AG/P2N2222AGOS-ND/920244|Transistor 2n2222]], [[http://www.digikey.ca/product-detail/en/CF14JT100K/CF14JT100KCT-ND/1830399|Resistance 100KΩ]], [[http://www.digikey.ca/product-detail/en/OJE-SH-105DM000/PB874-ND/1095199|Relais 5V Normalement Ouvert]], [[http://www.digikey.ca/product-detail/en/1N4001-E3%2F54/1N4001-E3%2F54GICT-ND/868984|Une Diode 1N4001]], [[http://www.sparkfun.com/products/10007|Connecteurs pour l'arduino]]
+>Créateur = Frédéric Cantin, Laurent Charbonneau, Raphaël Dermers, Serge Dubé, Marc-Olivier Ducharme, Anthony Lapointe, Stéphanie Lessard-Bérubé, Stéphanie Perron, Stéphane Rousseau
+Description projet = Système d’irrigation de plantes ou de jardin de balcon commandé par un module Arduino et une pompe solaire.
+Ingrédient = Multiplexeur 74HC4052N: [[http://www.digikey.ca/product-detail/en/74HC4052N652/568-1457-5-ND/763061]], 
+Support de circuit intégré DIP-16 pour le multiplexeur (facultatif): [[http://www.digikey.ca/product-detail/en/1-390261-4/A100206-ND/1125624]], 
+Transistor 2n2222: [[ http://www.digikey.ca/product-detail/en/P2N2222AG/P2N2222AGOS-ND/920244 ]], 
+Resistance 100KΩ: [[ http://www.digikey.ca/product-detail/en/CF14JT100K/CF14JT100KCT-ND/1830399 ]], 
+Relais 5V Normalement Ouvert: [[ http://www.digikey.ca/product-detail/en/OJE-SH-105DM000/PB874-ND/1095199 ]], 
+Une Diode 1N4001: [[ http://www.digikey.ca/product-detail/en/1N4001-E3%2F54/1N4001-E3%2F54GICT-ND/868984 ]], 
+Connecteurs pour l'arduino: [[ http://www.sparkfun.com/products/10007 ]]
 Outil utilisé=Arduino, Outils d'électronique
 Status=Terminé
 License=GPL
